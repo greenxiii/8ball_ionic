@@ -1,0 +1,11 @@
+{
+  "name": "8ball",
+  "app_id": "a641b655",
+  "gulpStartupTasks": [
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
